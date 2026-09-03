@@ -78,3 +78,6 @@ Run Time : 200ns
 1. Successfully designed the **2-bit Multiplier** schematic using **Cadence Virtuoso**.
 2. Performed **transient analysis**, verifying the correct operation of the **Multiplier**.
 3. Observed **correct multiplication behavior** in response to input signals.
+
+<img width="1600" height="695" alt="image" src="https://github.com/user-attachments/assets/91e0cbc4-aa7f-4090-9166-ab5c69416397" />
+<img width="1600" height="695" alt="image" src="https://github.com/user-attachments/assets/4914de1f-ad59-4a41-9eb1-5ea2c44b4cef" />
